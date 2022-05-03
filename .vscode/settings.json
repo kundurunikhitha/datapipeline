@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/19c74e29-70db-4a07-9c0b-52d7770ab33d/resourceGroups/DataEngrResourceGroup-SangwanER/providers/Microsoft.Web/sites/penngvdatapipeline",
+    "appService.deploySubpath": "."
+}
